@@ -1,5 +1,6 @@
 import React from 'react';
-import Header from './Header';
+import Rout from './Rout';
+
 
 // import logo from './logo.svg';
 // import './App.css';
@@ -7,7 +8,7 @@ import Header from './Header';
 
 function App() {
   return (
-    <Header />
+    <Rout />
   );
 }
 
